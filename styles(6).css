@@ -1,0 +1,328 @@
+.header{
+  overflow:hidden;
+  background-color: blue;
+  padding: 5px;
+  height: 170;
+
+  
+
+}
+
+img{
+  border-radius: 50%;
+  margin-left:360 ;
+  margin-top:30 ;
+  
+  
+   
+}
+
+
+#img3:hover{
+  cursor:pointer;
+  
+}
+
+#img3 {
+  margin-left:1250 ;
+}
+
+
+  
+
+
+
+
+
+
+#img2 {
+  float:right ;
+  text-align: center;
+  margin-right: 550;
+  border-radius: 4%;
+  margin-top: 5;
+  position: relative; top: -140;
+  
+  
+  
+  
+}
+
+nav {
+  list-style: none;
+
+}
+
+li{
+  display: inline-table;
+  padding: 10px;
+  background-color:white;
+  margin-top: 30;
+  font-family:Arial, Helvetica, sans-serif;
+  color: blue;
+  border-radius: 10%;
+  font-weight: bold;
+}
+
+li:hover{
+  cursor:pointer;
+  background-color: aqua;
+  color: white;
+}
+
+#header2 {
+  margin-top: 100px;
+  height: 80px;
+}
+
+h1 {
+  color: white;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 60px;
+  margin-left: 520;
+  margin-top: -1px;
+
+}
+
+#card1 {
+  background-color: lightgray;
+  box-shadow: 5px 10px 8px blue;
+  margin: 300px;
+  text-align:center ;
+  width: 300px;
+  font: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  height: 200px;
+  margin-top:-0;
+  text-indent: 10px;
+  color: blue;
+  background-color: white;
+  font-size: 20px;
+  margin-left: 150px;
+ 
+}
+
+#card2 {
+  background-color: lightgray;
+  box-shadow: 5px 10px 8px blue;
+  margin: 300px;
+  text-align:center ;
+  width: 300px;
+  font: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  height: 200px;
+  margin-top:-500;
+  text-indent: 10px;
+  color: blue;
+  background-color: white;
+  font-size: 20px;
+  margin-left: 550px;
+
+}
+
+#card3 {
+  background-color: lightgray;
+  box-shadow: 5px 10px 8px blue;
+  margin: 300px;
+  text-align:center ;
+  width: 300px;
+  font: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  height: 200px;
+  margin-top:-500;
+  text-indent: 10px;
+  color: blue;
+  background-color: white;
+  font-size: 20px;
+  margin-left: 950px;
+ 
+
+}
+
+
+#header3 {
+  height: 50px;
+  margin-top: -100;
+}
+
+
+
+h2 {
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: 550;
+  color: white;
+  font-size: 30px;
+  margin-top: 10;
+}
+
+#card2 {
+  background-color: lightgray;
+  box-shadow: 5px 10px 8px blue;
+  margin: 300px;
+  text-align:center ;
+  width: 300px;
+  font: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  height: 200px;
+  margin-top:-500;
+  text-indent: 10px;
+  color: blue;
+  background-color: lightgray;
+  font-size: 20px;
+  margin-left: 550px;
+
+}
+
+.container {
+  background-color: blue;
+  border-radius: 20px;
+  margin: 600px;
+  margin-left: 570px;
+  height: 250px;
+  color: white;
+  margin-top: -1;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  transition:1s;
+  box-shadow: 5px 10px 8px black;
+  
+}
+
+.container:hover {
+  transform:scale(1.5);
+  cursor: pointer;
+  background-color: aqua;
+ 
+}
+
+
+
+.card img {
+  margin-left: -1;
+  margin-top: 0px;
+  padding: 0px;
+  border-radius: 20px;
+  
+}
+
+.container .content {
+transition:1s ease-in-out;
+visibility: hidden;
+opacity: ;
+
+
+
+}
+
+.container:hover .content  {
+visibility: visible;
+
+}
+
+#rep2 {
+  margin-top: -850px;
+  margin-left: 170px;
+  margin-right:1000px ;
+}
+
+#rep3 {
+  margin-top: -850px;
+  margin-right:160px ;
+  margin-left: 1000;
+  right: ;
+}
+
+#rep4 {
+  margin-top: -500px;
+
+}
+
+#rep5 {
+  margin-top: -850px;
+  margin-right:150px;
+  margin-left: 1000;
+}
+
+#rep6 {
+  margin-top: -500px;
+}
+
+#rep7 {
+  margin-top: -850px;
+  margin-right:150 ;
+  margin-left: 1000;
+}
+
+#rep8 {
+  margin-top: -500px;
+}
+
+#rep9 {
+  margin-top: -850px;
+  margin-left: 160px;
+  margin-right: 1000;
+}
+
+#header3 {
+  margin-top:-200px ;
+}
+
+#header4 {
+  margin-top: -550px;
+  height: 50px;
+}
+
+p{
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  margin-top: ;
+}
+
+.section {
+  color: blue;
+  font-size: 30px;
+}
+
+.chat-box {
+  margin-left: 600px;
+}
+
+
+
+.footer {
+  margin-top: 100px;
+  background-color: blue;
+  height: 195px;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  width: 100%;
+}
+
+.footer img {
+  margin-left: 600px;
+  margin-top: 40px;
+  border-radius: 0px;
+  
+}
+
+.footer p {
+  margin-left: 0;
+}
+
+button {
+  margin-left: 650px;
+  margin-top: 10px;
+  background-color: blue;
+  border: 0;
+  padding: 10px;
+  color: white;
+  box-shadow: 5px 5px black;
+  font-weight: bold;
+}
+
+button:hover {
+  cursor: pointer;
+  background-color: aqua;
+  box-shadow: 0px 0px;
+}

@@ -1,0 +1,187 @@
+.header{
+  overflow:hidden;
+  background-color: blue;
+  padding: 5px;
+  height: 170;
+
+  
+
+}
+
+
+
+
+
+
+
+
+#img3:hover{
+  cursor:pointer;
+  
+}
+
+#img3 {
+  border-radius: 50px;
+  margin-left: 1270px;
+  
+  
+  
+}
+
+#img4 {
+  border-radius: 1%;
+  margin-left: 1px;
+  margin-top: 0%;
+  
+}
+  
+
+
+
+
+
+
+#img2 {
+  float:right ;
+  text-align: center;
+  margin-right: 550;
+  border-radius: 4%;
+  margin-top: 5;
+  position: relative; top: -140;
+  
+  }
+
+nav {
+  list-style: none;
+
+}
+
+li{
+  display: inline-table;
+  padding: 10px;
+  background-color:white;
+  margin-top: 60px;
+  font-family:Arial, Helvetica, sans-serif;
+  color:blue;
+  border-radius: 10%;
+  font-weight: bold;
+  
+}
+
+li:hover{
+  cursor:pointer;
+  background-color: aqua;
+  color: white;
+}
+
+
+h1 {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 40px;
+  color: white;
+  margin-left: 430;
+  font-size: 100PX;
+  margin-top: -130;
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+h2 {
+  margin-left: 370;
+  margin-top:-40;
+  font-family:Arial, Helvetica, sans-serif;
+  font-size: 30px;
+  color:;
+  font-weight:bold;
+  
+}
+
+h3 {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  margin-top: 100px;
+  display: inline-table;
+  margin-left: 30px;
+}
+
+
+.card {
+  background-color:lightgray;
+  height: 600px;
+  width: 1200px;
+  margin-left: 100PX;
+  margin-top: 100PX;
+  border-radius: 20px;
+}
+
+select {
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 10px;
+  background-color: blue;
+  color: white;
+  font-weight: bold;
+  border: 0px;
+  box-shadow: 5px 5px black;
+  
+}
+
+select:hover {
+  cursor: pointer;
+  background-color: blue;
+  box-shadow:0px 0px;
+  border: 0px;
+}
+
+#header2 {
+  height: 150px;
+  border-radius: 10px;
+
+  
+}
+
+.submit {
+  margin-left: 100px;
+  background-color: blue;
+  color: white;
+  padding: 10px;
+  border-radius: 10px;
+  border: 0px;
+  box-shadow: 5px 5px black;
+  font-weight: bold;
+  
+}
+
+.submit:hover {
+  background-color: aqua;
+  box-shadow: 0px 0px;
+}
+
+
+.footer {
+  margin-top: 200px;
+  background-color: blue;
+  height: 195px;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.footer img {
+  margin-left: 600px;
+  margin-top: 40px;
+  border-radius: 0px;
+  
+}
+
+.footer p {
+  margin-left: 500;
+}
+

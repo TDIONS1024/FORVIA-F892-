@@ -1,0 +1,88 @@
+<html>
+<head>
+    <title>F892.com</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width" intial-scale="1.0">
+    <link rel="stylesheet" href="styles(13) - Copy.css">
+     <script>
+
+      function validateform(){
+        var name = document.form.username.value    
+        var password = document.form.password.value  
+
+        if(username == ""){
+        alert('Username cant be blank');
+        return false;
+
+
+        } else if (password.length<6){
+        alert('Password must contain atleast 6 characters');
+        return false;
+
+        }
+      }
+     </script>
+    <head>
+        <body>
+
+                
+
+
+
+       
+      
+          <div class="image">   
+          <div class="image-overlay">
+
+          </div>
+          <img src="f892(logo 3) (1).png" height="350" id="img1">
+          </div>
+
+
+          <div class="container">
+          <form action="f892 homepage (tab).html" method="post"  id="form" onsubmit="return validateform()">
+               
+                <div class="form-control">
+                <input type="text" placeholder="username" name="username" id="username" >
+                <span style="color: red;" id="username_error"></span>
+                </div>
+
+
+                <div class="form-control">
+                <input type="password" placeholder="password" name="password" id="password" >
+                <span style="color: red;" id="password_error"></span>
+                </div>
+
+
+               
+                <button type="submit" value="register">log in</button>
+            
+          </form>
+          </div>
+
+          
+          
+
+          
+          
+           
+         
+
+
+
+ 
+
+
+
+</body>
+
+
+
+
+
+        <footer>
+</footer>
+
+
+
+</html>
