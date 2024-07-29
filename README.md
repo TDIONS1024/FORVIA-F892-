@@ -1,2 +1,0 @@
-- 👋 Hi, I’m @TDIONS1024
-- As an aspiring front end developer, im eager to continously learn new skill and master my craft. 
