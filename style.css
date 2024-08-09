@@ -1,0 +1,223 @@
+
+
+.header{
+  overflow:hidden;
+  background-color: blue;
+  padding: 5px;
+  height: 170;
+
+}
+
+
+
+
+
+
+
+
+#img3:hover{
+  cursor:pointer;
+  
+}
+
+#img3 {
+  border-radius: 50px;
+  margin-left: 1250px;
+  
+}
+
+
+
+
+
+#img2 {
+  float:right ;
+  text-align: center;
+  margin-right: 550;
+  border-radius: 4%;
+  margin-top: 5;
+  position: relative; top: -140;
+  
+  }
+
+nav {
+  list-style: none;
+
+}
+
+li{
+  display: inline-table;
+  padding: 10px;
+  background-color:white;
+  margin-top: 60px;
+  font-family: Arial, Helvetica, sans-serif;
+  color:blue;
+  border-radius: 10%;
+  font-weight: bold;
+  
+}
+
+li:hover{
+  cursor:pointer;
+  background-color: aqua;
+  color: white;
+}
+
+
+h1 {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color:white;
+  margin-left: 620px;
+  font-size: 40px;
+  margin-top: 1px;
+ 
+   
+}
+
+
+.footer {
+  margin-top: 100px;
+  background-color: blue;
+  height: 195px;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  width: 100%;
+}
+
+.footer img {
+  margin-left: 600px;
+  margin-top: 40px;
+  
+}
+
+.footer p {
+  margin-left: 500;
+}
+
+#header2 {
+  height: 50px;
+  margin-top: 30px;
+  margin-bottom:30px ;
+
+}
+
+#header2 h1 {
+  margin-bottom: 70px;
+}
+
+
+
+
+.content {
+  width: 100%;
+  margin: 30px auto 30px;
+}
+
+.content .main-content {
+  width: 70%;
+  float: left;
+  
+
+}
+
+.content .sidebar {
+  width: 25%;
+  float: right;
+  height: 400px;
+  background-color:blue;
+  border-radius: 10px;
+  box-shadow: 5px 10px 8px;
+  color: white;
+  margin: 10px;
+}
+
+.clearfix::after {
+  content:'';
+  display: block;
+  clear:both;
+}
+
+.content .main-content .Top{
+  margin: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.content .main-content .post {
+  width: 95%;
+  height: 270px;
+  margin: 40px auto;
+  border-radius: 5px;
+  background-color:white;
+  box-shadow: 5px 10px 8px ;
+  color: blue;
+  font-weight: bold;
+
+}
+
+
+.content .main-content .post .post-image {
+width: 40%;
+height: 100%;
+float: left;
+
+}
+
+.content .main-content .post .post-preview {
+padding: 30px;
+width: 40%;
+font-family: Arial, Helvetica, sans-serif;
+display:inline-table;
+margin-left: 400px;
+margin-top: -250px;
+}
+
+.content .main-content .post .post-preview .submit {
+  background-color: blue;
+  color: white;
+}
+
+.sidebar .content {
+  margin: 40px;
+  float: left;
+  margin-left: 60px;
+  width: 70%;
+  margin-top: -10px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.content button {
+  background-color: blue;
+  color: white;
+  border: 0px;
+  padding: 10px;
+  border-radius: 10px;
+  font-weight: bold;
+  box-shadow: 5px 5px black;
+}
+
+.content button:hover {
+  cursor: pointer;
+  background-color: aqua;
+  box-shadow: 0px 0px;
+}
+
+.content .sidebar .button .submit {
+  background-color: white;
+}
+
+
+.flex-container > div {
+  background-color: white;
+  padding: 0px;
+  margin-top: 10px;
+  font-weight: bold;
+  color: blue;
+  text-align: center;
+  
+}
+
+.flex-container {
+  margin: 30px;
+  margin-top: -10px;
+}
+
